@@ -33,6 +33,19 @@ let quotes = [
       "“I swear I couldn't love you more than I do right now, and yet I know I will tomorrow.”",
     writer: "― Leo Christopher",
   },
+  {
+    quote: "“There is nothing permanent except change.”",
+    writer: "― Heraclitus",
+  },
+  {
+    quote:
+      "“We are such stuff as dreams are made on, and our little life is rounded with a sleep.”",
+    writer: "― William Shakespeare",
+  },
+  {
+    quote: "“Not all those who wander are lost.”",
+    writer: "― J.R.R. Tolkein",
+  },
 ];
 
 generatBtn.addEventListener("click", () => {
